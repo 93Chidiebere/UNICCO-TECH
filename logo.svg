@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="UNICCO TECH U mark">
+  <rect width="100" height="100" rx="22" fill="#10372f"/>
+  <path d="M20 17h17v36c0 10 4 15 13 15s13-5 13-15V17h17v37c0 20-11 31-30 31S20 74 20 54V17Z" fill="#f8f8f5"/>
+  <path d="M50 17h30L63 35H50V17Z" fill="#8bd66c"/>
+  <path d="M50 35h13v18c0 4-1 7-3 10L50 51V35Z" fill="#5ba963"/>
+</svg>
